@@ -2,7 +2,7 @@
 
 
 
-··*David Levi
-··*Klayver Gontijo	
-··*Mario Fernandes
-··*Rogerio Matoso
+ *David Levi
+ *Klayver Gontijo	
+ *Mario Fernandes
+ *Rogerio Matoso
